@@ -1,2 +1,3 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+#hello people
+###i am learning how to work with markdown files
+####git is fun :smile: :smile: :smile: :smile:
